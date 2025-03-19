@@ -1,3 +1,11 @@
+"""
+Meal-Prep-Planer für gesundes Abnehmen 🥗
+
+Dieses Open-Source-Tool hilft dir, Mahlzeiten für mehrere Tage zu planen 
+und eine Einkaufsliste zu erstellen.
+
+👉 Mehr Abnehm-Tipps findest du hier: https://www.schnellabnehmen.at
+"""
 import random
 
 # Beispielrezepte für verschiedene Mahlzeiten
